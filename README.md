@@ -35,3 +35,11 @@ Este é um aplicativo Flutter simples que calcula o Índice de Massa Corporal (I
 2. Abra um terminal e navegue até o diretório do projeto.
 
 3. Execute o seguinte comando para verificar se há dependências ausentes e instalá-las:
+
+4. Conecte seu dispositivo ou inicie um emulador.
+  
+5. Execute o seguinte comando para iniciar o aplicativo:
+
+```
+flutter run
+
