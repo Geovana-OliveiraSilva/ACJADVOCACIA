@@ -1,18 +1,45 @@
 # DIO-GEOVANA-STUDY
-SITE - Ana Carla Jatobá - Advocacia Especializada
+## Site - Ana Carla Jatobá - Advocacia Especializada
 
-- Nenhum pré-requisito específico é necessário para visualizar este site. Basta abrir o arquivo HTML em um navegador da web.
+Este projeto é um site estático para o escritório de advocacia especializada de Ana Carla Jatobá, desenvolvido como parte do estudo de Geovana no curso da Digital Innovation One (DIO).
 
-## Instruções
+### Visão Geral
 
-1. Clone ou faça o download deste repositório em seu computador.
-2. Abra o arquivo `index.html` em um navegador da web para visualizar a página inicial do site.
+O site apresenta informações sobre o escritório de advocacia, áreas de atuação e formas de contato. Ele foi projetado para ser responsivo e fornecer uma experiência de usuário agradável em dispositivos desktop e móveis.
 
-## Tecnologias Utilizadas
+### Pré-requisitos
 
-- HTML
-- CSS
+Não há pré-requisitos específicos para visualizar este site. Um navegador web moderno é suficiente.
 
-  
+### Instalação e Uso
 
+1. Clone o repositório: git clone https://github.com/Geovana-OliveiraSilva/ACJADVOCACIA.git Ou faça o download do ZIP e extraia os arquivos.
 
+2. Navegue até o diretório do projeto: cd ACJADVOCACIA
+
+3. Abra o arquivo `index.html` em seu navegador web preferido.
+
+### Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+### Recursos
+
+- Design responsivo
+- Layout moderno e profissional
+- Seções para informações sobre o escritório, áreas de atuação e contato
+
+### Contribuição
+
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+### Licença
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### Contato
+
+Geovana - [geovana.silva.fatec@gmail.com]
