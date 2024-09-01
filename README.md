@@ -1,7 +1,7 @@
 # DIO-GEOVANA-STUDY
 ## Site - Ana Carla Jatobá - Advocacia Especializada
 
-Este projeto é um site estático para o escritório de advocacia especializada de Ana Carla Jatobá, desenvolvido como parte do estudo de Geovana no curso da Digital Innovation One (DIO).
+Este projeto é um site para o escritório de advocacia especializada de Ana Carla Jatobá, desenvolvido como parte do estudo de Geovana no curso da Digital Innovation One (DIO).
 
 ### Visão Geral
 
